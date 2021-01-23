@@ -1,0 +1,23 @@
+<style> 
+.calc{
+   margin-bottom: 100px; 
+    height=250px;
+    
+    
+}
+  
+         input[type="button"] 
+         { 
+         background-color:navajowhite; 
+         color: black; 
+         border: solid black 2px; 
+         width:100% 
+         } 
+  
+         input[type="text"] 
+         { 
+         background-color:white; 
+         border: solid black 2px; 
+         width:100% 
+         } 
+      </style> 
